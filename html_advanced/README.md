@@ -19,5 +19,5 @@ If you want to contribute to this project, feel free to clone the repository, cr
 
 ### Noticed
 This project is intended to improve our HTML skills by focusing on structure and semantics. Once the HTML structure is complete, we can add CSS styles in subsequent projects.
- <img src="https://s3.amazonaws.com/alu-intranet.hbtn.io/uploads/medias/2021/4/1f4cd63ecc3a8c03b0f4309b74aca179e225aabf.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUZTW2RLVB%2F20240126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240126T225522Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d4ab25523b23b56e0299cffd41aaae9decfaae72f2bb2ba40058b83b6fc48e26" alt="Click here to an image">
+ <img src="https://s3.amazonaws.com/alu-intranet.hbtn.io/uploads/medias/2021/4/1f4cd63ecc3a8c03b0f4309b74aca179e225aabf.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUZTW2RLVB%2F20240126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240126T225522Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d4ab25523b23b56e0299cffd41aaae9decfaae72f2bb2ba40058b83b6fc48e26" alt="Get schooled">
 
